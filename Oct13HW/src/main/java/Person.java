@@ -9,4 +9,6 @@ The class should define a getName() method which returns the Person object's nam
 The class should define a setName() method which sets the Person object's name field.
 
  */
+    final String name;
+
 }
